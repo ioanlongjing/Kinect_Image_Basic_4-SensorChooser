@@ -1,0 +1,11 @@
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\MainWindow.baml
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\App.g.cs
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\Joint_MarkupCompile.cache
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\Joint.g.resources
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\Joint.Properties.Resources.resources
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\Joint.csproj.GenerateResource.Cache
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\bin\Debug\Joint.exe
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\bin\Debug\Joint.pdb
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\Joint.exe
+C:\Users\CSIE\AppData\Local\Temporary Projects\Joint\obj\x86\Debug\Joint.pdb
